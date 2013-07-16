@@ -1,7 +1,7 @@
-# contributor: Martin Prpic <martin.prpic@gmail.com>
-# name: <refsection>
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <refsection id="...">
 # key: refsection
 # --
-<refsection>
+<refsection id="$1">
 	$0
 </refsection>

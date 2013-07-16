@@ -1,5 +1,5 @@
 # contributor: Martin Prpic <martin.prpic@gmail.com>
-# name: <audiodata fileref="...">
+# name: <audiodata fileref="..." />
 # key: audiodata
 # --
 <audiodata fileref="$1" />$0
