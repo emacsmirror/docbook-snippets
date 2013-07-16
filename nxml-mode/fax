@@ -1,4 +1,5 @@
-#name : fax
-#key : fax
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <fax>
+# key: fax
 # --
 <fax>$1</fax>$0

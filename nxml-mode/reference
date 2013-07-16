@@ -1,6 +1,7 @@
-#name : reference
-#key : reference
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <reference>
+# key: reference
 # --
 <reference>
-  $1
-</reference>$0
+	$0
+</reference>

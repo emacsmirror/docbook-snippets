@@ -1,4 +1,5 @@
-#name : keyword
-#key : keyword
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <keyword>
+# key: keyword
 # --
 <keyword>$1</keyword>$0

@@ -1,8 +1,7 @@
-#name : warning
-#key : warning
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <warning>
+# key: warning
 # --
 <warning>
-  <para>
-    $1
-  </para>
-</warning>$0
+	$0
+</warning>

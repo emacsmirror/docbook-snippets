@@ -1,6 +1,7 @@
-#name : tip
-#key : tip
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tip>
+# key: tip
 # --
 <tip>
-  $1
-</tip>$0
+	$0
+</tip>

@@ -1,4 +1,5 @@
-#name : tocfront
-#key : tocfront
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tocfront linkend="...">
+# key: tocfront
 # --
 <tocfront linkend="$1">$2</tocfront>$0

@@ -1,6 +1,7 @@
-#name : orderedlist
-#key : olist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <orderedlist>
+# key: orderedlist
 # --
 <orderedlist>
-  $1
-</orderedlist>$0
+	$0
+</orderedlist>

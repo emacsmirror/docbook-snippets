@@ -1,6 +1,7 @@
-#name : tasksummary
-#key : tasksummary
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tasksummary>
+# key: tasksummary
 # --
 <tasksummary>
-  $1
-</tasksummary>$0
+	$0
+</tasksummary>

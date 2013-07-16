@@ -1,4 +1,5 @@
-#name : citation
-#key : citation
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <citation>
+# key: citation
 # --
 <citation>$1</citation>$0

@@ -1,4 +1,5 @@
-#name : year
-#key : year
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <year>
+# key: year
 # --
-<year>$1</year>$0
+<year>${1:`(format-time-string "%Y")`}</year>$0

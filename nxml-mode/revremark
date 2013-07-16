@@ -1,4 +1,5 @@
-#name : revremark
-#key : revremark
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <revremark>
+# key: revremark
 # --
 <revremark>$1</revremark>$0

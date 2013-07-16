@@ -1,4 +1,5 @@
-#name : guilabel
-#key : guilabel
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <guilabel>
+# key: guilabel
 # --
 <guilabel>$1</guilabel>$0

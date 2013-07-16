@@ -1,6 +1,7 @@
-#name : dedication
-#key : dedication
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <dedication>
+# key: dedication
 # --
 <dedication>
-  $1
-</dedication>$0
+	$0
+</dedication>

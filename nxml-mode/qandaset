@@ -1,6 +1,7 @@
-#name : qandaset
-#key : qandaset
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <qandaset>
+# key: qandaset
 # --
 <qandaset>
-  $1
-</qandaset>$0
+	$0
+</qandaset>

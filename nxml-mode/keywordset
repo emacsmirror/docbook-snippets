@@ -1,6 +1,7 @@
-#name : keywordset
-#key : keywordset
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <keywordset>
+# key: keywordset
 # --
 <keywordset>
-  $1
-</keywordset>$0
+	$0
+</keywordset>

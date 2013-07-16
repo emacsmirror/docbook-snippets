@@ -1,6 +1,7 @@
-#name : glossaryinfo
-#key : glossaryinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <glossaryinfo>
+# key: glossaryinfo
 # --
 <glossaryinfo>
-  $1
-</glossaryinfo>$0
+	$0
+</glossaryinfo>

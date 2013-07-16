@@ -1,6 +1,7 @@
-#name : listitem
-#key : litem
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <listitem>
+# key: listitem
 # --
 <listitem>
-  $0
+	$0
 </listitem>

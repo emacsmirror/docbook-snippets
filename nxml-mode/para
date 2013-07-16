@@ -1,6 +1,7 @@
-#name : para
-#key : pa
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <para>
+# key: para
 # --
 <para>
-  $0
+	$0
 </para>

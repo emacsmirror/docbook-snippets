@@ -1,4 +1,5 @@
-#name : contractnum
-#key : contractnum
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <contractnum>
+# key: contractnum
 # --
 <contractnum>$1</contractnum>$0

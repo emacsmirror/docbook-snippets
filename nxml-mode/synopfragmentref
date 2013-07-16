@@ -1,6 +1,7 @@
-#name : synopfragmentref
-#key : synopfragmentref
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <synopfragmentref linkend="...">
+# key: synopfragmentref
 # --
 <synopfragmentref linkend="$1">
-  $2
-</synopfragmentref>$0
+	$0
+</synopfragmentref>

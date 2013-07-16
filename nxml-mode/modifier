@@ -1,4 +1,5 @@
-#name : modifier
-#key : modifier
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <modifier>
+# key: modifier
 # --
 <modifier>$1</modifier>$0

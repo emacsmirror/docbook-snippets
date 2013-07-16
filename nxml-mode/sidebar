@@ -1,6 +1,7 @@
-#name : sidebar
-#key : sidebar
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <sidebar>
+# key: sidebar
 # --
 <sidebar>
-  $1
-</sidebar>$0
+	$0
+</sidebar>

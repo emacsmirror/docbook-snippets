@@ -1,6 +1,7 @@
-#name : screenco
-#key : screenco
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <screenco>
+# key: screenco
 # --
 <screenco>
-  $1
-</screenco>$0
+	$0
+</screenco>

@@ -1,6 +1,7 @@
-#name : colgroup
-#key : colgroup
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <colgroup>
+# key: colgroup
 # --
 <colgroup>
-  $1
-</colgroup>$0
+	$0
+</colgroup>

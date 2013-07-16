@@ -1,6 +1,7 @@
-#name : simplemsgentry
-#key : simplemsgentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <simplemsgentry>
+# key: simplemsgentry
 # --
 <simplemsgentry>
-  $1
-</simplemsgentry>$0
+	$0
+</simplemsgentry>

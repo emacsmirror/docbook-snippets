@@ -1,4 +1,5 @@
-#name : modespec
-#key : modespec
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <modespec application="...">
+# key: modespec
 # --
 <modespec application="$1">$2</modespec>$0

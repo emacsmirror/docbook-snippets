@@ -1,6 +1,7 @@
-#name : prefaceinfo
-#key : prefaceinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <prefaceinfo>
+# key: prefaceinfo
 # --
 <prefaceinfo>
-  $1
-</prefaceinfo>$0
+	$0
+</prefaceinfo>

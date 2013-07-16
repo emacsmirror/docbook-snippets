@@ -1,4 +1,5 @@
-#name : seealsoie
-#key : seealsoie
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <seealsoie>
+# key: seealsoie
 # --
 <seealsoie>$1</seealsoie>$0

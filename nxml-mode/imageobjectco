@@ -1,6 +1,7 @@
-#name : imageobjectco
-#key : imageobjectco
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <imageobjectco>
+# key: imageobjectco
 # --
 <imageobjectco>
-  $1
-</imageobjectco>$0
+	$0
+</imageobjectco>

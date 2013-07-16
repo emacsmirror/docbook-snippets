@@ -1,6 +1,7 @@
-#name : tbody
-#key : tbody
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tbody>
+# key: tbody
 # --
 <tbody>
-  $1
-</tbody>$0
+	$0
+</tbody>

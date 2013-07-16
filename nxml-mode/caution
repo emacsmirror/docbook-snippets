@@ -1,6 +1,7 @@
-#name : caution
-#key : caution
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <caution>
+# key: caution
 # --
 <caution>
-  $1
-</caution>$0
+	$0
+</caution>

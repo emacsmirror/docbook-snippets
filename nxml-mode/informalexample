@@ -1,6 +1,7 @@
-#name : informalexample
-#key : informalexample
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <informalexample>
+# key: informalexample
 # --
 <informalexample>
-  $1
-</informalexample>$0
+	$0
+</informalexample>

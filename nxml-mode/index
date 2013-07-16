@@ -1,6 +1,7 @@
-#name : index
-#key : index
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <index id="...">
+# key: index
 # --
-<index>
-  $1
-</index>$0
+<index id="$1">
+	$0
+</index>

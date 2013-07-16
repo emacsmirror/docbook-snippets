@@ -1,4 +1,5 @@
-#name : synopsis
-#key : synopsis
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <synopsis>
+# key: synopsis
 # --
 <synopsis>$1</synopsis>$0

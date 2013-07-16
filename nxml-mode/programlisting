@@ -1,4 +1,5 @@
-#name : programlisting
-#key : programlisting
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <programlisting language="...">
+# key: programlisting
 # --
 <programlisting language="$1">$2</programlisting>$0

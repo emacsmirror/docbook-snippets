@@ -1,4 +1,5 @@
-#name : edition
-#key : edition
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <edition>
+# key: edition
 # --
 <edition>$1</edition>$0

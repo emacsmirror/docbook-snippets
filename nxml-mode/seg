@@ -1,4 +1,5 @@
-#name : seg
-#key : seg
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <seg>
+# key: seg
 # --
 <seg>$1</seg>$0

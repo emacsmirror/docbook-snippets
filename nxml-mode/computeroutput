@@ -1,4 +1,5 @@
-#name : computeroutput
-#key : computeroutput
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <computeroutput>
+# key: computeroutput
 # --
 <computeroutput>$1</computeroutput>$0

@@ -1,4 +1,5 @@
-#name : property
-#key : property
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <property>
+# key: property
 # --
 <property>$1</property>$0

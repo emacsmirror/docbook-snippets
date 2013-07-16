@@ -1,6 +1,7 @@
-#name : tocpart
-#key : tocpart
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tocpart>
+# key: tocpart
 # --
 <tocpart>
-  $1
-</tocpart>$0
+	$0
+</tocpart>

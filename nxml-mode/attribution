@@ -1,4 +1,5 @@
-#name : attribution
-#key : attribution
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <attribution>
+# key: attribution
 # --
 <attribution>$1</attribution>$0

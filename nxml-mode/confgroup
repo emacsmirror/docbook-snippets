@@ -1,6 +1,7 @@
-#name : confgroup
-#key : confgroup
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <confgroup>
+# key: confgroup
 # --
 <confgroup>
-  $1
-</confgroup>$0
+	$0
+</confgroup>

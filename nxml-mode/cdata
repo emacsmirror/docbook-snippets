@@ -1,6 +1,5 @@
-#name : cdata
-#key : cdata
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <![CDATA[...]]>
+# key: cdata
 # --
-<![CDATA[
-$1
-]]>$0
+<![CDATA[$1]]>

@@ -1,4 +1,5 @@
-#name : seealso
-#key : seealso
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <seealso>
+# key: seealso
 # --
 <seealso>$1</seealso>$0

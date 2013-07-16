@@ -1,4 +1,5 @@
-#name : citetitle
-#key : citetitle
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <citetitle pubwork="...">
+# key: citetitle
 # --
 <citetitle pubwork="${1:book}">$2</citetitle>$0

@@ -1,6 +1,7 @@
-#name : classsynopsisinfo
-#key : classsynopsisinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <classsynopsisinfo>
+# key: classsynopsisinfo
 # --
 <classsynopsisinfo>
-  $1
-</classsynopsisinfo>$0
+	$0
+</classsynopsisinfo>

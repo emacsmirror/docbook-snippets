@@ -1,6 +1,7 @@
-#name : personblurb
-#key : personblurb
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <personblurb>
+# key: personblurb
 # --
 <personblurb>
-  $1
-</personblurb>$0
+	$0
+</personblurb>

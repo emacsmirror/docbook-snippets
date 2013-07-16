@@ -1,6 +1,7 @@
-#name : equation
-#key : equation
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <equation>
+# key: equation
 # --
 <equation>
-  $1
-</equation>$0
+	$0
+</equation>

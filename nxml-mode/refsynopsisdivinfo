@@ -1,6 +1,7 @@
-#name : refsynopsisdivinfo
-#key : refsynopsisdivinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refsynopsisdivinfo>
+# key: refsynopsisdivinfo
 # --
 <refsynopsisdivinfo>
-  $1
-</refsynopsisdivinfo>$0
+	$0
+</refsynopsisdivinfo>

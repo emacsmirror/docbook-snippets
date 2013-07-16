@@ -1,4 +1,5 @@
-#name : productnumber
-#key : productnumber
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <productnumber>
+# key: productnumber
 # --
 <productnumber>$1</productnumber>$0

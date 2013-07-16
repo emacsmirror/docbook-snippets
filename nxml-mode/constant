@@ -1,4 +1,5 @@
-#name : constant
-#key : constant
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <constant>
+# key: constant
 # --
 <constant>$1</constant>$0

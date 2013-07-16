@@ -1,6 +1,7 @@
-#name : bibliodiv
-#key : bibliodiv
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <bibliodiv>
+# key: bibliodiv
 # --
 <bibliodiv>
-  $1
-</bibliodiv>$0
+	$0
+</bibliodiv>

@@ -1,4 +1,5 @@
-#name : spanspec
-#key : spanspec
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <spanspec spanname="..." namest="..." nameend="..." />
+# key: spanspec
 # --
 <spanspec spanname="$1" namest="$2" nameend="$3" />$0

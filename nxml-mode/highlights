@@ -1,6 +1,7 @@
-#name : highlights
-#key : highlights
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <highlights>
+# key: highlights
 # --
 <highlights>
-  $1
-</highlights>$0
+	$0
+</highlights>

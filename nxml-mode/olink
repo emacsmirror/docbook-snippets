@@ -1,4 +1,5 @@
-#name : olink
-#key : olink
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <olink targetdocent="...">
+# key: olink
 # --
 <olink targetdocent="$1">$2</olink>$0

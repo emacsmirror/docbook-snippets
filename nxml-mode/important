@@ -1,8 +1,7 @@
-#name : important
-#key : important
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <important>
+# key: important
 # --
 <important>
-  <para>
-    $1
-  </para>
-</important>$0
+	$0
+</important>

@@ -1,6 +1,7 @@
-#name : simpara
-#key : simpara
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <simpara>
+# key: simpara
 # --
 <simpara>
-  $1
-</simpara>$0
+	$0
+</simpara>

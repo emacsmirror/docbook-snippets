@@ -1,4 +1,5 @@
-#name : returnvalue
-#key : returnvalue
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <returnvalue>
+# key: returnvalue
 # --
 <returnvalue>$1</returnvalue>$0

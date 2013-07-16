@@ -1,6 +1,7 @@
-#name : msgset
-#key : msgset
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <msgset>
+# key: msgset
 # --
 <msgset>
-  $1
-</msgset>$0
+	$0
+</msgset>

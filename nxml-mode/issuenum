@@ -1,4 +1,5 @@
-#name : issuenum
-#key : issuenum
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <issuenum>
+# key: issuenum
 # --
 <issuenum>$1</issuenum>$0

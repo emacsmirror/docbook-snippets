@@ -1,4 +1,5 @@
-#name : invpartnumber
-#key : invpartnumber
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <invpartnumber>
+# key: invpartnumber
 # --
 <invpartnumber>$1</invpartnumber>$0

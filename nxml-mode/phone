@@ -1,4 +1,5 @@
-#name : phone
-#key : phone
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <phone>
+# key: phone
 # --
 <phone>$1</phone>$0

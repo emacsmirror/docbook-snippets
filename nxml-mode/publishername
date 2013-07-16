@@ -1,4 +1,5 @@
-#name : publishername
-#key : publishername
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <publishername>
+# key: publishername
 # --
 <publishername>$1</publishername>$0

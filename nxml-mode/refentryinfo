@@ -1,6 +1,7 @@
-#name : refentryinfo
-#key : refentryinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refentryinfo>
+# key: refentryinfo
 # --
 <refentryinfo>
-  $1
-</refentryinfo>$0
+	$0
+</refentryinfo>

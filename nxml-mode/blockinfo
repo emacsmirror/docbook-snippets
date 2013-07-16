@@ -1,6 +1,7 @@
-#name : blockinfo
-#key : blockinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <blockinfo>
+# key: blockinfo
 # --
 <blockinfo>
-  $1
-</blockinfo>$0
+	$0
+</blockinfo>

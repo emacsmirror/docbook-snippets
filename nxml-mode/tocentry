@@ -1,4 +1,5 @@
-#name : tocentry
-#key : tocentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tocentry linkend="...">
+# key: tocentry
 # --
 <tocentry linkend="$1">$2</tocentry>$0

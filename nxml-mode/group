@@ -1,6 +1,7 @@
-#name : group
-#key : group
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <group>
+# key: group
 # --
 <group>
-  $1
-</group>$0
+	$0
+</group>

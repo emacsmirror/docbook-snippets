@@ -1,6 +1,7 @@
-#name : substeps
-#key : substeps
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <substeps>
+# key: substeps
 # --
 <substeps>
-  $1
-</substeps>$0
+	$0
+</substeps>

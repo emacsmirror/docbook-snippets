@@ -1,6 +1,7 @@
-#name : legalnotice
-#key : legalnotice
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <legalnotice>
+# key: legalnotice
 # --
 <legalnotice>
-  $1
-</legalnotice>$0
+	$0
+</legalnotice>

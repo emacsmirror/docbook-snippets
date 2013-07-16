@@ -1,6 +1,7 @@
-#name : simplelist
-#key : simplelist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <simplelist>
+# key: simplelist
 # --
 <simplelist>
-  $1
-</simplelist>$0
+	$0
+</simplelist>

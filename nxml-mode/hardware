@@ -1,4 +1,5 @@
-#name : hardware
-#key : hardware
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <hardware>
+# key: hardware
 # --
 <hardware>$1</hardware>$0

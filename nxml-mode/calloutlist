@@ -1,6 +1,7 @@
-#name : calloutlist
-#key : calloutlist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <calloutlist>
+# key: calloutlist
 # --
 <calloutlist>
-  $1
-</calloutlist>$0
+	$0
+</calloutlist>

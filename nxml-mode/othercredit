@@ -1,6 +1,7 @@
-#name : othercredit
-#key : othercredit
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <othercredit>
+# key: othercredit
 # --
 <othercredit>
-  $1
-</othercredit>$0
+	$0
+</othercredit>

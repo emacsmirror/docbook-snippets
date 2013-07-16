@@ -1,6 +1,7 @@
-#name : mediaobjectco
-#key : mediaobjectco
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <mediaobjectco>
+# key: mediaobjectco
 # --
 <mediaobjectco>
-  $1
-</mediaobjectco>$0
+	$0
+</mediaobjectco>

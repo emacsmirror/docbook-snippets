@@ -1,6 +1,7 @@
-#name : informalfigure
-#key : informalfigure
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <informalfigure>
+# key: informalfigure
 # --
 <informalfigure>
-  $1
-</informalfigure>$0
+	$0
+</informalfigure>

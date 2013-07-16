@@ -1,6 +1,7 @@
-#name : bibliocoverage
-#key : bibliocoverage
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <bibliocoverage>
+# key: bibliocoverage
 # --
 <bibliocoverage>
-  $1
-</bibliocoverage>$0
+	$0
+</bibliocoverage>

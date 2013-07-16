@@ -1,6 +1,7 @@
-#name : sectioninfo
-#key : sectioninfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <sectioninfo>
+# key: sectioninfo
 # --
 <sectioninfo>
-  $1
-</sectioninfo>$0
+	$0
+</sectioninfo>

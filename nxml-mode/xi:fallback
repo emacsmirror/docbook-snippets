@@ -1,6 +1,7 @@
-#name : xi:fallback
-#key : xi:fallback
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <xi:fallback>
+# key: xi:fallback
 # --
 <xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude">
-  $1
-</xi:fallback>$0
+	$0
+</xi:fallback>

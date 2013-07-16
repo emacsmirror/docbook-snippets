@@ -1,6 +1,7 @@
-#name : colophon
-#key : colophon
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <colophon id="...">
+# key: colophon
 # --
-<colophon>
-  $1
-</colophon>$0
+<colophon id="$1">
+	$0
+</colophon>

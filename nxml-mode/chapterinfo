@@ -1,6 +1,7 @@
-#name : chapterinfo
-#key : chapterinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <chapterinfo>
+# key: chapterinfo
 # --
 <chapterinfo>
-  $1
-</chapterinfo>$0
+	$0
+</chapterinfo>

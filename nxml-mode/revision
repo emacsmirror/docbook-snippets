@@ -1,6 +1,7 @@
-#name : revision
-#key : revision
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <revision>
+# key: revision
 # --
 <revision>
-  $1
-</revision>$0
+	$0
+</revision>

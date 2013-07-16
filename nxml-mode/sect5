@@ -1,6 +1,7 @@
-#name : sect5
-#key : sect5
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <sect5 id="...">
+# key: sect5
 # --
 <sect5 id="$1">
-  $2
-</sect5>$0
+	$0
+</sect5>

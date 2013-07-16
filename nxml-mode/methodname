@@ -1,4 +1,5 @@
-#name : methodname
-#key : methodname
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <methodname>
+# key: methodname
 # --
 <methodname>$1</methodname>$0

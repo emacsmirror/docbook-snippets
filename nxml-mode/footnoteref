@@ -1,4 +1,5 @@
-#name : footnoteref
-#key : footnoteref
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <footnoteref linkend="..." />
+# key: footnoteref
 # --
 <footnoteref linkend="$1" />$0

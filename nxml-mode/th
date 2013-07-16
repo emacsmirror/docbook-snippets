@@ -1,6 +1,7 @@
-#name : th
-#key : th
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <th>
+# key: th
 # --
 <th>
-  $1
-</th>$0
+	$0
+</th>

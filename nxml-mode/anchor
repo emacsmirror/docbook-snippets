@@ -1,4 +1,5 @@
-#name : anchor
-#key : anchor
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <anchor id="..." />
+# key: anchor
 # --
 <anchor id="$1" />$0

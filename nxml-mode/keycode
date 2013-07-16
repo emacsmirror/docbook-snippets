@@ -1,4 +1,5 @@
-#name : keycode
-#key : keycode
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <keycode>
+# key: keycode
 # --
 <keycode>$1</keycode>$0

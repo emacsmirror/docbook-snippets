@@ -1,6 +1,7 @@
-#name : tgroup
-#key : tgroup
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tgroup cols="...">
+# key: tgroup
 # --
 <tgroup cols="$1">
-  $2
-</tgroup>$0
+	$0
+</tgroup>

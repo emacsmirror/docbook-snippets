@@ -1,4 +1,5 @@
-#name : interfacename
-#key : interfacename
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <interfacename>
+# key: interfacename
 # --
 <interfacename>$1</interfacename>$0

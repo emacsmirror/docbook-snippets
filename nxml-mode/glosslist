@@ -1,6 +1,7 @@
-#name : glosslist
-#key : glosslist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <glosslist>
+# key: glosslist
 # --
 <glosslist>
-  $1
-</glosslist>$0
+	$0
+</glosslist>

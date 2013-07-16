@@ -1,6 +1,7 @@
-#name : caption
-#key : caption
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <caption>
+# key: caption
 # --
 <caption>
-  $1
-</caption>$0
+	$0
+</caption>

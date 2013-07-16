@@ -1,6 +1,7 @@
-#name : msgrel
-#key : msgrel
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <msgrel>
+# key: msgrel
 # --
 <msgrel>
-  $1
-</msgrel>$0
+	$0
+</msgrel>

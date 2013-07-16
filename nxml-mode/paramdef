@@ -1,4 +1,5 @@
-#name : paramdef
-#key : paramdef
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <paramdef>
+# key: paramdef
 # --
 <paramdef>$1</paramdef>$0

@@ -1,6 +1,7 @@
-#name : constructorsynopsis
-#key : constructorsynopsis
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <constructorsynopsis language="...">
+# key: constructorsynopsis
 # --
 <constructorsynopsis language="$1">
-  $2
-</constructorsynopsis>$0
+	$0
+</constructorsynopsis>

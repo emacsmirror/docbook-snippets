@@ -1,4 +1,5 @@
-#name : abbrev
-#key : abbrev
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <abbrev>
+# key: abbrev
 # --
 <abbrev>$1</abbrev>$0

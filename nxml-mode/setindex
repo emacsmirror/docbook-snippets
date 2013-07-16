@@ -1,6 +1,7 @@
-#name : setindex
-#key : setindex
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <setindex>
+# key: setindex
 # --
 <setindex>
-  $1
-</setindex>$0
+	$0
+</setindex>

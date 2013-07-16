@@ -1,6 +1,7 @@
-#name : article
-#key : article
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <article id="...">
+# key: article
 # --
 <article id="$1">
-  $2
-</article>$0
+	$0
+</article>

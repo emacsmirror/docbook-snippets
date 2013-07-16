@@ -1,4 +1,5 @@
-#name : mathphrase
-#key : mathphrase
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <mathphrase>
+# key: mathphrase
 # --
 <mathphrase>$1</mathphrase>$0

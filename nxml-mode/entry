@@ -1,4 +1,7 @@
-#name : entry
-#key : entry
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <entry>
+# key: entry
 # --
-<entry>$1</entry>$0
+<entry>
+	$0
+</entry>

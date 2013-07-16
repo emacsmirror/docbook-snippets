@@ -1,4 +1,5 @@
-#name : date
-#key : date
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <date>
+# key: date
 # --
-<date>$1</date>$0
+<date>${1:`(format-time-string "%a %d %b %Y")`}</date>$0

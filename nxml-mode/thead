@@ -1,6 +1,7 @@
-#name : thead
-#key : thead
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <thead>
+# key: thead
 # --
 <thead>
-  $1
-</thead>$0
+	$0
+</thead>

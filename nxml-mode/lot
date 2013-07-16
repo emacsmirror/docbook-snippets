@@ -1,6 +1,7 @@
-#name : lot
-#key : lot
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <lot>
+# key: lot
 # --
 <lot>
-  $1
-</lot>$0
+	$0
+</lot>

@@ -1,4 +1,5 @@
-#name : honorific
-#key : honorific
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <honorific>
+# key: honorific
 # --
 <honorific>$1</honorific>$0

@@ -1,6 +1,7 @@
-#name : authorgroup
-#key : authorgroup
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <authorgroup>
+# key: authorgroup
 # --
 <authorgroup>
-  $1
-</authorgroup>$0
+	$0
+</authorgroup>

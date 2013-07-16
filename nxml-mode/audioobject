@@ -1,6 +1,7 @@
-#name : audioobject
-#key : audioobject
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <audioobject>
+# key: audioobject
 # --
 <audioobject>
-  $1
-</audioobject>$0
+	$0
+</audioobject>

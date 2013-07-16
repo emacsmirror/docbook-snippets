@@ -1,6 +1,7 @@
-#name : toclevel1
-#key : toclevel1
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <toclevel1>
+# key: toclevel1
 # --
 <toclevel1>
-  $1
-</toclevel1>$0
+	$0
+</toclevel1>

@@ -1,6 +1,7 @@
-#name : setinfo
-#key : setinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <setinfo>
+# key: setinfo
 # --
 <setinfo>
-  $1
-</setinfo>$0
+	$0
+</setinfo>

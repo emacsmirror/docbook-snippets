@@ -1,4 +1,5 @@
-#name : errortext
-#key : errortext
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <errortext>
+# key: errortext
 # --
 <errortext>$1</errortext>$0

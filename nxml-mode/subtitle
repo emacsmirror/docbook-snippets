@@ -1,4 +1,5 @@
-#name : subtitle
-#key : subtitle
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <subtitle>
+# key: subtitle
 # --
 <subtitle>$1</subtitle>$0

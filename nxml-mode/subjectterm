@@ -1,4 +1,5 @@
-#name : subjectterm
-#key : subjectterm
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <subjectterm>
+# key: subjectterm
 # --
 <subjectterm>$1</subjectterm>$0

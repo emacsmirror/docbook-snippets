@@ -1,22 +1,7 @@
-#name : table
-#key : table
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <table id="...">
+# key: table
 # --
-<table>
-  <title>$1</title>
-  <tgroup cols="$2">
-    <thead>
-      <row>
-	<entry>
-	  $3
-	</entry>$4
-      </row>
-    </thead>
-    <tbody>
-      <row>
-	<entry>
-	  $5
-	</entry>$6
-      </row>
-    </tbody>
-  </tgroup>
+<table id="$1">
+	$0
 </table>

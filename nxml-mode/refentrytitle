@@ -1,4 +1,5 @@
-#name : refentrytitle
-#key : refentrytitle
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refentrytitle>
+# key: refentrytitle
 # --
 <refentrytitle>$1</refentrytitle>$0

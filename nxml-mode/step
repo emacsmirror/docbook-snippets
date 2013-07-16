@@ -1,8 +1,7 @@
-#name : step
-#key : step
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <step>
+# key: step
 # --
 <step>
-  <para>
-    $1
-  </para>
-</step>$0
+	$0
+</step>

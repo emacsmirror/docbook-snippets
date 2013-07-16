@@ -1,6 +1,7 @@
-#name : funcprototype
-#key : funcprototype
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <funcprototype>
+# key: funcprototype
 # --
 <funcprototype>
-  $1
-</funcprototype>$0
+	$0
+</funcprototype>

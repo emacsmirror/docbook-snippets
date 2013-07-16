@@ -1,6 +1,7 @@
-#name : itemizedlist
-#key : ilist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <itemizedlist>
+# key: itemizedlist
 # --
 <itemizedlist>
-  $0
+	$0
 </itemizedlist>

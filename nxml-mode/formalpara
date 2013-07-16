@@ -1,9 +1,7 @@
-#name : formalpara
-#key : fp
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <formalpara>
+# key: formalpara
 # --
 <formalpara>
-  <title>$1</title>
-  <para>
-    $2
-  </para>
-</formalpara>$0
+	$0
+</formalpara>

@@ -1,4 +1,5 @@
-#name : emphasis
-#key : emp
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <emphasis>
+# key: emphasis
 # --
-<emphasis${1: role="${2:bold|strong}"}>$3</emphasis>$0
+<emphasis>$1</emphasis>$0

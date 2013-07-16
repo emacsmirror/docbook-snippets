@@ -1,4 +1,5 @@
-#name : postcode
-#key : postcode
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <postcode>
+# key: postcode
 # --
 <postcode>$1</postcode>$0

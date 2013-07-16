@@ -1,4 +1,5 @@
-#name : corpname
-#key : corpname
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <corpname>
+# key: corpname
 # --
 <corpname>$1</corpname>$0

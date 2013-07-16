@@ -1,6 +1,7 @@
-#name : footnote
-#key : footnote
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <footnote>
+# key: footnote
 # --
 <footnote>
-  $1
-</footnote>$0
+	$0
+</footnote>

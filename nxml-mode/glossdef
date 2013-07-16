@@ -1,6 +1,7 @@
-#name : glossdef
-#key : glossdef
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <glossdef>
+# key: glossdef
 # --
 <glossdef>
-  $1
-</glossdef>$0
+	$0
+</glossdef>

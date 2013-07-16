@@ -1,6 +1,7 @@
-#name : segmentedlist
-#key : segmentedlist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <segmentedlist>
+# key: segmentedlist
 # --
 <segmentedlist>
-  $1
-</segmentedlist>$0
+	$0
+</segmentedlist>

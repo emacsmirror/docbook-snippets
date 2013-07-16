@@ -1,6 +1,7 @@
-#name : refnamediv
-#key : refnamediv
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refnamediv>
+# key: refnamediv
 # --
 <refnamediv>
-  $1
-</refnamediv>$0
+	$0
+</refnamediv>

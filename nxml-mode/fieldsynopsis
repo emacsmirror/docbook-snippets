@@ -1,6 +1,7 @@
-#name : fieldsynopsis
-#key : fieldsynopsis
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <fieldsynopsis language="...">
+# key: fieldsynopsis
 # --
 <fieldsynopsis language="$1">
-  $2
-</fieldsynopsis>$0
+	$0
+</fieldsynopsis>

@@ -1,4 +1,5 @@
-#name : systemitem
-#key : sysitem
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <systemitem>
+# key: systemitem
 # --
-<systemitem${1: class="${2:class}"}>$3</systemitem>$0
+<systemitem>$1</systemitem>$0

@@ -1,6 +1,7 @@
-#name : biblioentry
-#key : biblioentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <biblioentry>
+# key: biblioentry
 # --
 <biblioentry>
-  $1
-</biblioentry>$0
+	$0
+</biblioentry>

@@ -1,6 +1,7 @@
-#name : programlistingco
-#key : programlistingco
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <programlistingco>
+# key: programlistingco
 # --
 <programlistingco>
-  $1
-</programlistingco>$0
+	$0
+</programlistingco>

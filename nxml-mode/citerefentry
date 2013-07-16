@@ -1,4 +1,5 @@
-#name : citerefentry
-#key : citerefentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <citerefentry>
+# key: citerefentry
 # --
 <citerefentry>$1</citerefentry>$0

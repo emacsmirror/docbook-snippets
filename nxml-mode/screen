@@ -1,4 +1,5 @@
-#name : screen
-#key : scr
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <screen>
+# key: screen
 # --
 <screen>$1</screen>$0

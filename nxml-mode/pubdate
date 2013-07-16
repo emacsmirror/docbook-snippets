@@ -1,4 +1,5 @@
-#name : pubdate
-#key : pubdate
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <pubdate>
+# key: pubdate
 # --
 <pubdate>$1</pubdate>$0

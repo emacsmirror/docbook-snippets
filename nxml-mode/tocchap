@@ -1,6 +1,7 @@
-#name : tocchap
-#key : tocchap
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <tocchap>
+# key: tocchap
 # --
 <tocchap>
-  $1
-</tocchap>$0
+	$0
+</tocchap>

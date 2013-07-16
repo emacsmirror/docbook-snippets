@@ -1,4 +1,5 @@
-#name : refclass
-#key : refclass
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refclass>
+# key: refclass
 # --
 <refclass>$1</refclass>$0

@@ -1,4 +1,5 @@
-#name : guibutton
-#key : guibutton
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <guibutton>
+# key: guibutton
 # --
 <guibutton>$1</guibutton>$0

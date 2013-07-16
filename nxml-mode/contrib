@@ -1,4 +1,5 @@
-#name : contrib
-#key : contrib
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <contrib>
+# key: contrib
 # --
 <contrib>$1</contrib>$0

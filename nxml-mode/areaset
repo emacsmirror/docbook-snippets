@@ -1,6 +1,7 @@
-#name : areaset
-#key : areaset
+# contributor: Jaromir Hradilek <jhradilek@gmai.com>
+# name: <areaset id="...">
+# key: areaset
 # --
-<areaset id="$1" coords="$2">
-  $3
-</areaset>$0
+<areaset id="$1">
+	$0
+</areaset>

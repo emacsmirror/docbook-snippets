@@ -1,4 +1,5 @@
-#name : errorcode
-#key : errorcode
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <errorcode>
+# key: errorcode
 # --
 <errorcode>$1</errorcode>$0

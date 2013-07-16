@@ -1,4 +1,5 @@
-#name : symbol
-#key : symbol
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <symbol>
+# key: symbol
 # --
 <symbol>$1</symbol>$0

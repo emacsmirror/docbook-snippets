@@ -1,4 +1,5 @@
-#name : superscript
-#key : superscript
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <superscript>
+# key: superscript
 # --
 <superscript>$1</superscript>$0

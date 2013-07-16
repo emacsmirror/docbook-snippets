@@ -1,4 +1,5 @@
-#name : bibliorelation
-#key : bibliorelation
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <bibliorelation type="..." class="...">
+# key: bibliorelation
 # --
 <bibliorelation type="$1" class="$2">$3</bibliorelation>$0

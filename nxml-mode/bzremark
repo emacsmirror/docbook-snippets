@@ -1,4 +1,0 @@
-#name : bz_remark
-#key : bzrem
-# --
-<remark><ulink url="https://bugzilla.redhat.com/show_bug.cgi?id=$1">BZ#$1</ulink></remark>$0

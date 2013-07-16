@@ -1,4 +1,5 @@
-#name : msgaud
-#key : msgaud
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <msgaud>
+# key: msgaud
 # --
 <msgaud>$1</msgaud>$0

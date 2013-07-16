@@ -1,4 +1,5 @@
-#name : inlinegraphic
-#key : inlinegraphic
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <inlinegraphic fileref="..." format="..." scalefit="..." />
+# key: inlinegraphic
 # --
-<inlinegraphic fileref="$1" format="${2:PNG}" scalefit="${3:0}" />
+<inlinegraphic fileref="$1" format="${2:PNG}" scalefit="${3:0}" />$0

@@ -1,6 +1,7 @@
-#name : objectinfo
-#key : objectinfo
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <objectinfo>
+# key: objectinfo
 # --
 <objectinfo>
-  $1
-</objectinfo>$0
+	$0
+</objectinfo>

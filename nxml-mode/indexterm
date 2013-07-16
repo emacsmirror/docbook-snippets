@@ -1,6 +1,7 @@
-#name : indexterm
-#key : indexterm
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <indexterm>
+# key: indexterm
 # --
 <indexterm>
-  $1
-</indexterm>$0
+	$0
+</indexterm>

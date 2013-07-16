@@ -1,7 +1,7 @@
-#name : example
-#key : example
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <example id="...">
+# key: example
 # --
 <example id="$1">
-  <title>$2</title>
-  $3
-</example>$0
+	$0
+</example>

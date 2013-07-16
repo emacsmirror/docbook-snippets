@@ -1,4 +1,5 @@
-#name : replaceable
-#key : repl
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <replaceable>
+# key: replaceable
 # --
 <replaceable>$1</replaceable>$0

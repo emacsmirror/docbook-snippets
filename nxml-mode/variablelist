@@ -1,13 +1,7 @@
-#name : variablelist
-#key : vlist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <variablelist>
+# key: variablelist
 # --
 <variablelist>
-  <varlistentry>
-    <term>$1</term>
-    <listitem>
-      <para>
-        $2
-      </para>
-    </listitem>
-  </varlistentry>$3
+	$0
 </variablelist>

@@ -1,6 +1,7 @@
-#name : itermset
-#key : itermset
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <itermset>
+# key: itermset
 # --
 <itermset>
-  $1
-</itermset>$0
+	$0
+</itermset>

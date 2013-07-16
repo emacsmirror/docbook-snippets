@@ -1,6 +1,7 @@
-#name : msgentry
-#key : msgentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <msgentry>
+# key: msgentry
 # --
 <msgentry>
-  $1
-</msgentry>$0
+	$0
+</msgentry>

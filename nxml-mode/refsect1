@@ -1,6 +1,7 @@
-#name : refsect1
-#key : refsect1
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refsect1>
+# key: refsect1
 # --
 <refsect1>
-  $1
-</refsect1>$0
+	$0
+</refsect1>

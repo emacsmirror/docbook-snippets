@@ -1,6 +1,7 @@
-#name : revhistory
-#key : revhistory
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <revhistory>
+# key: revhistory
 # --
 <revhistory>
-  $1
-</revhistory>$0
+	$0
+</revhistory>

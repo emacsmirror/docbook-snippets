@@ -1,6 +1,7 @@
-#name : seglistitem
-#key : seglistitem
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <seglistitem>
+# key: seglistitem
 # --
 <seglistitem>
-  $1
-</seglistitem>$0
+	$0
+</seglistitem>

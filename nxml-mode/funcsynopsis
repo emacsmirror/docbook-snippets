@@ -1,6 +1,7 @@
-#name : funcsynopsis
-#key : funcsynopsis
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <funcsynopsis>
+# key: funcsynopsis
 # --
 <funcsynopsis>
-  $1
-</funcsynopsis>$0
+	$0
+</funcsynopsis>

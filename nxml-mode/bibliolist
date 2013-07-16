@@ -1,6 +1,7 @@
-#name : bibliolist
-#key : bibliolist
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <bibliolist>
+# key: bibliolist
 # --
 <bibliolist>
-  $1
-</bibliolist>$0
+	$0
+</bibliolist>

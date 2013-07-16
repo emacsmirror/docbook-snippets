@@ -1,4 +1,5 @@
-#name : orgdiv
-#key : orgdiv
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <orgdiv>
+# key: orgdiv
 # --
 <orgdiv>$1</orgdiv>$0

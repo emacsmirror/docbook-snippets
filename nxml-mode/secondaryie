@@ -1,4 +1,5 @@
-#name : secondaryie
-#key : secondaryie
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <secondaryie>
+# key: secondaryie
 # --
 <secondaryie>$1</secondaryie>$0

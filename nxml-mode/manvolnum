@@ -1,4 +1,5 @@
-#name : manvolnum
-#key : manvolnum
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <manvolnum>
+# key: manvolnum
 # --
 <manvolnum>$1</manvolnum>$0

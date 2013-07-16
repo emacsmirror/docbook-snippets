@@ -1,6 +1,7 @@
-#name : part
-#key : part
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <part id="...">
+# key: part
 # --
 <part id="$1">
-  $2
-</part>$0
+	$0
+</part>

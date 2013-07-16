@@ -1,4 +1,5 @@
-#name : medialabel
-#key : medialabel
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <medialabel>
+# key: medialabel
 # --
-<medialabel${1: class="${2:class}"}>$3</medialabel>$0
+<medialabel>$1</medialabel>$0

@@ -1,4 +1,5 @@
-#name : foreignphrase
-#key : foreignphrase
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <foreignphrase>
+# key: foreignphrase
 # --
 <foreignphrase>$1</foreignphrase>$0

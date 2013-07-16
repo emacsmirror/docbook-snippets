@@ -1,6 +1,7 @@
-#name : refmeta
-#key : refmeta
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refmeta>
+# key: refmeta
 # --
 <refmeta>
-  $1
-</refmeta>$0
+	$0
+</refmeta>

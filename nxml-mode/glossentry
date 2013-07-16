@@ -1,6 +1,7 @@
-#name : glossentry
-#key : glossentry
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <glossentry>
+# key: glossentry
 # --
 <glossentry>
-  $1
-</glossentry>$0
+	$0
+</glossentry>

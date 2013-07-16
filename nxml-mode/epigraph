@@ -1,6 +1,7 @@
-#name : epigraph
-#key : epigraph
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <epigraph>
+# key: epigraph
 # --
 <epigraph>
-  $1
-</epigraph>$0
+	$0
+</epigraph>

@@ -1,6 +1,7 @@
-#name : refsection
-#key : refsection
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <refsection>
+# key: refsection
 # --
 <refsection>
-  $1
-</refsection>$0
+	$0
+</refsection>

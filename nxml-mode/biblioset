@@ -1,6 +1,7 @@
-#name : biblioset
-#key : biblioset
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <biblioset relation="...">
+# key: biblioset
 # --
 <biblioset relation="$1">
-  $2
-</biblioset>$0
+	$0
+</biblioset>

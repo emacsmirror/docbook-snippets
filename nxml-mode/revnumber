@@ -1,4 +1,5 @@
-#name : revnumber
-#key : revnumber
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <revnumber>
+# key: revnumber
 # --
 <revnumber>$1</revnumber>$0

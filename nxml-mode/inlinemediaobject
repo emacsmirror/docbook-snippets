@@ -1,6 +1,7 @@
-#name : inlinemediaobject
-#key : inlinemediaobject
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <inlinemediaobject>
+# key: inlinemediaobject
 # --
 <inlinemediaobject>
-  $1
-</inlinemediaobject>$0
+	$0
+</inlinemediaobject>

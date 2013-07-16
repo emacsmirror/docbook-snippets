@@ -1,4 +1,5 @@
-#name : bridgehead
-#key : bh
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <bridgehead id="...">
+# key: bridgehead
 # --
-<bridgehead id="$1"${2: renderas="${3:sect<number>}"}>$4</bridgehead>$0
+<bridgehead id="$1">$2</bridgehead>$0

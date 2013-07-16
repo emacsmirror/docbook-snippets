@@ -1,6 +1,7 @@
-#name : destructorsynopsis
-#key : destructorsynopsis
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <destructorsynopsis language="...">
+# key: destructorsynopsis
 # --
 <destructorsynopsis language="$1">
-  $2
-</destructorsynopsis>$0
+	$0
+</destructorsynopsis>

@@ -1,6 +1,7 @@
-#name : videoobject
-#key : videoobject
+# contributor: Martin Prpic <martin.prpic@gmail.com>
+# name: <videoobject>
+# key: videoobject
 # --
 <videoobject>
-  $1
-</videoobject>$0
+	$0
+</videoobject>

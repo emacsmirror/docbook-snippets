@@ -1,6 +1,7 @@
-#name : bibliography
-#key : bibliography
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <bibliography id="...">
+# key: bibliography
 # --
-<bibliography>
-  $1
-</bibliography>$0
+<bibliography id="$1">
+	$0
+</bibliography>
