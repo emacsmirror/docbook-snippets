@@ -29,7 +29,7 @@ Also make sure that you are using the **nxml-mode**. To enable it for the curren
 
     M-x nxml-mode
 
-To expand a snippet, type the corresponding keyword and press the trigger key (the **Tab** key by default). The tables below provides a comprehensive list of available keywords. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for more information on how to configure and use this template system.
+To expand a snippet, type the corresponding keyword and press the trigger key (the **Tab** key by default). The tables below provide a comprehensive list of available keywords. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for more information on how to configure and use this template system.
 
 ### Snippets for DocBook 4.5 Elements
 
@@ -1661,6 +1661,151 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
   <tr>
     <td><strong>year</strong></td>
     <td><code>&lt;year&gt;...&lt;/year&gt;</code></td>
+  </tr>
+</table>
+
+### Snippets for DocBook 4.5 Element Aliases
+
+<table>
+  <tr>
+    <th>Keyword</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>bold</strong></td>
+    <td><code>&lt;emphasis role='bold'&gt;...&lt;/emphasis&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>cartridge</strong></td>
+    <td><code>&lt;medialabel class="cartridge"&gt;...&lt;/medialabel&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>cdrom</strong></td>
+    <td><code>&lt;medialabel class="cdrom"&gt;...&lt;/medialabel&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>daemon</strong></td>
+    <td><code>&lt;systemitem class="daemon"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>devicefile</strong></td>
+    <td><code>&lt;filename class="devicefile"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>directory</strong></td>
+    <td><code>&lt;filename class='directory'&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>disk</strong></td>
+    <td><code>&lt;medialabel class="disk"&gt;...&lt;/medialabel&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>domainname</strong></td>
+    <td><code>&lt;systemitem class="domainname"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>etheraddress</strong></td>
+    <td><code>&lt;systemitem class="etheraddress"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>eventhandler</strong></td>
+    <td><code>&lt;systemitem class="eventhandler"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>event</strong></td>
+    <td><code>&lt;systemitem class="event"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>extension</strong></td>
+    <td><code>&lt;filename class="extension"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>filesystem</strong></td>
+    <td><code>&lt;systemitem class="filesystem"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>fqdomainname</strong></td>
+    <td><code>&lt;systemitem class="fqdomainname"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>groupname</strong></td>
+    <td><code>&lt;systemitem class="groupname"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>headerfile</strong></td>
+    <td><code>&lt;filename class="headerfile"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>ipaddress</strong></td>
+    <td><code>&lt;systemitem class="ipaddress"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>libraryfile</strong></td>
+    <td><code>&lt;filename class="libraryfile"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>library</strong></td>
+    <td><code>&lt;systemitem class="library"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>macro</strong></td>
+    <td><code>&lt;systemitem class="macro"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>netmask</strong></td>
+    <td><code>&lt;systemitem class="netmask"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>newsgroup</strong></td>
+    <td><code>&lt;systemitem class="newsgroup"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>osname</strong></td>
+    <td><code>&lt;systemitem class="osname"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>partition</strong></td>
+    <td><code>&lt;filename class="partition"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>process</strong></td>
+    <td><code>&lt;systemitem class="process"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>protocol</strong></td>
+    <td><code>&lt;systemitem class="protocol"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>resource</strong></td>
+    <td><code>&lt;systemitem class="resource"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>server</strong></td>
+    <td><code>&lt;systemitem class="server"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>service</strong></td>
+    <td><code>&lt;systemitem class="service"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>strong</strong></td>
+    <td><code>&lt;emphasis role="strong"&gt;...&lt;/emphasis&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>symlink</strong></td>
+    <td><code>&lt;filename class="symlink"&gt;...&lt;/filename&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>systemname</strong></td>
+    <td><code>&lt;systemitem class="systemname"&gt;...&lt;/systemitem&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>tape</strong></td>
+    <td><code>&lt;medialabel class="tape"&gt;...&lt;/medialabel&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>username</strong></td>
+    <td><code>&lt;systemitem class="username"&gt;...&lt;/systemitem&gt;</code></td>
   </tr>
 </table>
 
