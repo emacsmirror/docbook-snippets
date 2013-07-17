@@ -8,6 +8,22 @@ The **emacs-docbook-snippets** repository provides a complete set of Emacs snipp
 
 **Important:** A working installation of the **YASnippet** template system for Emacs is required for these snippets to work. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for information on how to install, configure, and use it.
 
+### Installing the Snippets Using package.el
+
+To install the snippets by using the package.el package manager for Emacs, add the following lines to your **~/.emacs.d/init.el** to enable the Milkypostman's Emacs Lisp Package Archive (MELPA) repository:
+
+    (require 'package)
+    (add-to-list 'package-archives
+                 '("melpa" . "http://melpa.milkbox.net/packages/"))
+    (package-initialize)
+
+Then run the following Emacs commands to install the **docbook-snippets** package:
+
+    M-x package-refresh-contents
+    M-x package-install docbook-snippets
+
+Refer to the [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/Packages.html) for more information on how to download, install, update, and uninstall packages in this editor.
+
 ### Installing the Snippets Manually
 
 To install the snippets manually, change to the directory with your local copy of this repository and copy the **snippets/nxml-mode/** directory into the directory you configured for snippets. For example, to install the snippets to the **~/.emacs.d/snippets/** directory, type:
