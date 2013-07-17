@@ -31,7 +31,7 @@ Also make sure that you are using the **nxml-mode**. To enable it for the curren
 
 To expand a snippet, type the corresponding keyword and press the trigger key (the **Tab** key by default). The tables below provides a comprehensive list of available keywords. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for more information on how to configure and use this template system.
 
-### DocBook 4.5 Elements
+### Snippets for DocBook 4.5 Elements
 
 <table>
   <tr>
@@ -1664,7 +1664,7 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
   </tr>
 </table>
 
-### Commonly Used XML Elements
+### Snippets for Commonly Used XML Elements
 
 <table>
   <tr>
@@ -1692,6 +1692,10 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
     <td><code>&lt;xi:include href="..." xmlns:xi="..." /&gt;</code></td>
   </tr>
 </table>
+
+## See Also
+
+* [jhradilek/emacs-mallard-snippets](https://github.com/jhradilek/emacs-mallard-snippets) — A complete set of snippets for the Mallard XML language.
 
 ## Copyright
 
