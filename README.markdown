@@ -1857,11 +1857,15 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
 ## See Also
 
 * [jhradilek/emacs-mallard-snippets](https://github.com/jhradilek/emacs-mallard-snippets) — A complete set of snippets for the Mallard XML language.
+* [atom-docbook-snippets](https://github.com/pbokoc/atom-docbook-snippets) — A collection of DocBook snippets for **Atom**.
+* [geany-snippets](https://github.com/jhradilek/geany-snippets) — A collection of DocBook and Mallard snippets for **Geany**.
+* [gedit-snippets](https://github.com/jhradilek/gedit-snippets) — A collection of DocBook and Mallard snippets for **Gedit**.
+* [vim-snippets](https://github.com/jhradilek/vim-snippets) — A collection of DocBook, Mallard, and RELAX NG snippets for **Vim**.
 
 ## Copyright
 
 Copyright © 2012 Martin Prpič  
-Copyright © 2010–2013 Jaromir Hradilek
+Copyright © 2010–2015 Jaromir Hradilek
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
